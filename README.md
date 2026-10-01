@@ -22,7 +22,7 @@ Turns out deploying it once taught me more than I expected.
 ---
 
  🏗️ Architecture
-[Architecture Diagram](Diagram.png)
+![Architecture Diagram](Diagram.png)
 
 ```
 [User / PWA]
