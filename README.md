@@ -1,6 +1,6 @@
 # 🤖 Zero Trust Secured Local AI Study Assistant
 
-> A private, self-hosted AI study assistant secured with a Zero Trust access model — built on personal hardware for $0.
+> A private, self-hosted AI study assistant secured with a Zero Trust access model built on personal hardware for $0.
 
 ![Zero Trust](https://img.shields.io/badge/Architecture-Zero%20Trust-blue)
 ![ZTNA](https://img.shields.io/badge/Security-ZTNA-darkblue)
@@ -21,7 +21,7 @@ Turns out deploying it once taught me more than I expected.
 
 ---
 
-## 🏗️ Architecture
+ 🏗️ Architecture
 
 ![Architecture Diagram](diagram.png)
 
