@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+📌 Overview
 
 I built my own AI study assistant and secured it with a Zero Trust access model. Accessible from any device, anywhere in the world — no open ports, no static IP exposed, no inbound firewall rules.
 
@@ -21,7 +21,8 @@ Turns out deploying it once taught me more than I expected.
 
 ---
 
- 🏗️ Architecture
+🏗️ Architecture
+ 
 ![Architecture Diagram](Diagram.png)
 
 ```
@@ -60,7 +61,7 @@ Turns out deploying it once taught me more than I expected.
 
 ---
 
-## 🔐 Security Architecture
+🔐 Security Architecture
 
 ### Defense in depth
 
@@ -83,7 +84,7 @@ Internet traffic
  Local machine         ← never directly exposed to the internet
 ```
 
-### Security properties
+Security properties
 
 | Property | Status |
 |---|---|
@@ -96,7 +97,7 @@ Internet traffic
 
 ---
 
-## 🚀 How to replicate this
+🚀 How to replicate this
 
 ### Prerequisites
 - Windows PC (16GB+ RAM recommended for qwen3:14b)
@@ -152,7 +153,7 @@ cloudflared service install
 
 ---
 
-## 💡 What I learned
+💡 What I learned
 
 Reading about Zero Trust is one thing. Actually implementing the identity layer, understanding why outbound-only tunnels eliminate inbound attack surface, and debugging authentication flows yourself — that's where the real understanding comes from.
 
