@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-I built my own AI study assistant and secured it with a Zero Trust access model. Accessible from any device, anywhere in the world — no open ports, no static IP exposed, no inbound firewall rules.
+I built my own AI study assistant and secured it with a Zero Trust access model. Accessible from any device, anywhere in the world no open ports, no static IP exposed, no inbound firewall rules.
 
 The same Zero Trust architecture enterprises pay six figures to implement, running on personal hardware for $0.
 
